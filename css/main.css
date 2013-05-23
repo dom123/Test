@@ -1,0 +1,38 @@
+* {
+	margin:0px;
+}
+
+#wrapper {
+	width:1000px;
+	margin:15px auto 15px;
+	background:#f0f0f0;
+
+}
+
+aside {
+	display:block;
+
+}
+
+nav {
+	margin:0px;
+
+}
+
+.top_bar {
+	border:2px solid #e3e3e3;
+	display:inline-block; /*so that width will be accepted*/
+	width:75px;
+	text-align:center;
+	padding-left:30px;
+	padding-right:30px;
+}
+
+.side_bar {
+	border:2px solid #e3e3e3;
+	display:block; /*so that width will be accepted*/
+	width:75px;
+	text-align:center;
+	padding-left:30px;
+	padding-right:30px;
+}
